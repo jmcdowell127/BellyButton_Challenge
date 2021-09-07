@@ -26,17 +26,20 @@ The results that will be displayed are:
 
 ## Results
 Starting off I created a demographics panel that displays the volunteers information. 
-* 
-After which I created three charts using Plotly:
+* <img width="116" alt="demos" src="https://user-images.githubusercontent.com/85372441/132416430-366b963f-04bf-44f8-954b-0673e75bfe15.png">
+
+After which I created __three charts__ using Plotly:
 * **Bar Chart**
-* 
+* <img width="312" alt="bar" src="https://user-images.githubusercontent.com/85372441/132416306-8133cd6d-0faa-4437-b109-64c978de2f32.png">
 * **Bubble Chart**
-*
+* <img width="790" alt="bubble" src="https://user-images.githubusercontent.com/85372441/132416357-a0dc8c79-e861-41f6-95e9-c761317a3c9d.png">
 * **Gauge Chart**
-*
+* <img width="333" alt="gauge" src="https://user-images.githubusercontent.com/85372441/132416578-e3c24c03-2f73-4ebc-8d36-9e99e757d8a5.png">
 
 I then customized the dashboard with a few of the following changes:
  * Added an image to the jumbotron
  * Added background color
  * Added information about the project as a paragraph on the page
  * Used a custom for with contrast for the colors.
+<img width="932" alt="final" src="https://user-images.githubusercontent.com/85372441/132416642-406de2b3-2fc0-4744-adf9-49d0c38df4eb.png">
+
